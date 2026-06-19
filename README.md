@@ -1,5 +1,5 @@
 # 💫 About Me:
-Now iam undergraduate student i know <br>java, java scrip, basic python and iam a cse <br>student i have forage certificates of 3
+Hi, I’m Rohith Pillendla 👋. I’m a B.Tech Computer Science Engineering student passionate about software development, cybersecurity, and building innovative technology solutions. I enjoy exploring new technologies, solving problems, and continuously improving my technical skills.I have worked on projects like CollabDebug, a collaborative debugging extension published on the VS Code Marketplace, Automated Invoice Template Extraction and Validation, and a Smart Walking Assistive Device for Blind People focused on improving accessibiliI have knowledge in programming fundamentals, cybersecurity basics, IAM fundamentals, and development tools like VS Code. I’m also interested in collaborative technologies, learning new skills, and contributing to impactful projects
 
 
 ## 🌐 Socials:
